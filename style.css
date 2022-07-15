@@ -1,0 +1,100 @@
+
+.box{
+background-color: rgb(249, 229, 232);
+width: 380px;
+height: 940px;
+margin: 20px auto;
+box-shadow: 1px 2px 4px;
+padding: 20px;
+
+
+}
+
+img{
+display: block;
+margin: 0 auto;
+margin-top: 10px;
+border-top-left-radius: 25px;
+border-top-right-radius: 25px;
+height: 480px;
+}
+.right-side{
+background-color: #fff;
+height: 420px;
+padding: 20px; 
+display: inline-block;
+
+
+}
+
+h3{
+font-family:'Times New Roman', Times, serif;
+color:grey ;
+font-weight: 100;
+
+}
+
+h1{
+font-size: 35px; ;
+
+}
+
+.amt{
+  
+color: #287;
+/* font-size: 40px; */
+
+font-size: 2.5rem;
+font-weight: 700;
+font-family: 'Fraunces', serif;
+display: inline;
+}
+
+
+ h6{/*
+    color: grey;
+    text-decoration: line-through;
+display: inline-block;
+padding: 25px 25px; */
+
+
+    color: hsl(228, 12%, 48%);
+    display: inline-block;
+    padding: 25px 25px;
+    position: relative;
+    bottom: 10px;
+  margin-bottom: 0;
+  text-decoration: line-through;
+  font-size: 0.8rem;
+  }
+  
+  p{
+    font-family: 'Montserrat', sans-serif;
+    color: hsl(228, 12%, 48%);
+    font-size: 14px;
+    font-weight:500;
+    line-height: 2;
+    text-align:inherit;
+    letter-spacing: 2px;
+    margin-bottom: 0;
+  }
+
+
+
+
+.btn{
+background-color: #287;
+width: 300px;
+height: 50px;
+border-radius: 12px;
+margin:0px auto;
+padding: auto;
+font-family: 'Raleway';
+color:#fff;
+font-weight: 700;
+
+}
+.btn:hover{
+background-color: rgb(109, 243, 221);
+transition: 2s ease-in-out;
+}
